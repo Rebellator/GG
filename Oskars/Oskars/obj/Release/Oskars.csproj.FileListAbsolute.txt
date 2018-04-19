@@ -1,0 +1,23 @@
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\bin\Release\Oskars.exe.config
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\bin\Release\Oskars.exe
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\bin\Release\Oskars.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.Add.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetFiguresInMovies.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetGGInfo.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetMovieFiguresWinners.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetMoviesWinners.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetNominantsInMovies.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.Get_Nominants_in_Series.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetNominationInfo.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetProfessionInfo.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetSeriesNominants.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Filters.GetSeriesSeasons.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.FormMain.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.FormAdd.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.Properties.Resources.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.csproj.GenerateResource.Cache
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.exe
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Release\Oskars.pdb
+C:\Users\Mark\Desktop\GG\Oskars\Oskars\bin\Release\Oskars.exe.config
+C:\Users\Mark\Desktop\GG\Oskars\Oskars\obj\Release\Oskars.exe
+C:\Users\Mark\Desktop\GG\Oskars\Oskars\obj\Release\Oskars.pdb

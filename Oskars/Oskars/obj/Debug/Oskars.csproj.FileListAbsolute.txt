@@ -1,0 +1,37 @@
+C:\Users\Mark\Downloads\1\Oskars\Oskars\bin\Debug\Oskars.exe.config
+C:\Users\Mark\Downloads\1\Oskars\Oskars\bin\Debug\Oskars.exe
+C:\Users\Mark\Downloads\1\Oskars\Oskars\bin\Debug\Oskars.pdb
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.Properties.Resources.resources
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.csproj.GenerateResource.Cache
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.exe
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.pdb
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.FormAdd.resources
+C:\Users\Mark\Downloads\1\Oskars\Oskars\obj\Debug\Oskars.FormMain.resources
+C:\Users\Mark\Downloads\Oscars2017\Oskars\Oskars\bin\Debug\Oskars.exe.config
+C:\Users\Mark\Downloads\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.exe
+C:\Users\Mark\Downloads\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\bin\Debug\Oskars.exe.config
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.exe
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\bin\Debug\Oskars.exe
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\bin\Debug\Oskars.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.csprojResolveAssemblyReference.cache
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.FormMain.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.FormAdd.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Properties.Resources.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.csproj.GenerateResource.Cache
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetFiguresInMovies.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetGGInfo.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetMovieFiguresWinners.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetMoviesWinners.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetNominantsInMovies.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.Get_Nominants_in_Series.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetNominationInfo.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetProfessionInfo.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetSeriesNominants.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.GetSeriesSeasons.resources
+C:\My Computer\Другое\Студент\Об'єктно-орієнтоване програмування\Курсова робота\Oscars2017\Oskars\Oskars\obj\Debug\Oskars.Filters.Add.resources
+C:\Users\Mark\Desktop\GG\Oskars\Oskars\bin\Debug\Oskars.exe.config
+C:\Users\Mark\Desktop\GG\Oskars\Oskars\obj\Debug\Oskars.exe
+C:\Users\Mark\Desktop\GG\Oskars\Oskars\obj\Debug\Oskars.pdb

@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E8A97F7-5775-4221-9FA6-4EA446BB8F06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Oskars</RootNamespace>
+    <AssemblyName>Oskars</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Filters\Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\Add.Designer.cs">
+      <DependentUpon>Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetGGInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetGGInfo.Designer.cs">
+      <DependentUpon>GetGGInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetNominantsInSeries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetNominantsInSeries.Designer.cs">
+      <DependentUpon>GetNominantsInSeries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetFiguresInMovies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetFiguresInMovies.Designer.cs">
+      <DependentUpon>GetFiguresInMovies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetMovieFiguresWinners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetMovieFiguresWinners.Designer.cs">
+      <DependentUpon>GetMovieFiguresWinners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetMoviesWinners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetMoviesWinners.Designer.cs">
+      <DependentUpon>GetMoviesWinners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetNominantsInMovies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetNominantsInMovies.Designer.cs">
+      <DependentUpon>GetNominantsInMovies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetNominationInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetNominationInfo.Designer.cs">
+      <DependentUpon>GetNominationInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetProfessionInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetProfessionInfo.Designer.cs">
+      <DependentUpon>GetProfessionInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetSeriesNominants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetSeriesNominants.Designer.cs">
+      <DependentUpon>GetSeriesNominants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filters\GetSeriesSeasons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filters\GetSeriesSeasons.Designer.cs">
+      <DependentUpon>GetSeriesSeasons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdd.Designer.cs">
+      <DependentUpon>FormAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oscars\AllActorsWinners.cs" />
+    <Compile Include="Oscars\ControlDB.cs" />
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oscars\FiguresInMovies.cs" />
+    <Compile Include="Oscars\FiguresInSeries.cs" />
+    <Compile Include="Oscars\FiguresToMovies.cs" />
+    <Compile Include="Oscars\FilmByYear.cs" />
+    <Compile Include="Oscars\GoldenGlobes.cs" />
+    <Compile Include="Oscars\ITrue.cs" />
+    <Compile Include="Oscars\MovieFigures.cs" />
+    <Compile Include="Oscars\MovieNominants.cs" />
+    <Compile Include="Oscars\Movies.cs" />
+    <Compile Include="Oscars\Nominant.cs" />
+    <Compile Include="Oscars\Nominations.cs" />
+    <Compile Include="Oscars\Professions.cs" />
+    <Compile Include="Oscars\SerieFigures.cs" />
+    <Compile Include="Oscars\SerieFiguresReq.cs" />
+    <Compile Include="Oscars\SerieNominants.cs" />
+    <Compile Include="Oscars\Series.cs" />
+    <Compile Include="Oscars\SeriesNominants.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Filters\Add.resx">
+      <DependentUpon>Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetFiguresInMovies.resx">
+      <DependentUpon>GetFiguresInMovies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetGGInfo.resx">
+      <DependentUpon>GetGGInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetMovieFiguresWinners.resx">
+      <DependentUpon>GetMovieFiguresWinners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetMoviesWinners.resx">
+      <DependentUpon>GetMoviesWinners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetNominantsInMovies.resx">
+      <DependentUpon>GetNominantsInMovies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetNominantsInSeries.resx">
+      <DependentUpon>GetNominantsInSeries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetNominationInfo.resx">
+      <DependentUpon>GetNominationInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetProfessionInfo.resx">
+      <DependentUpon>GetProfessionInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetSeriesNominants.resx">
+      <DependentUpon>GetSeriesNominants.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filters\GetSeriesSeasons.resx">
+      <DependentUpon>GetSeriesSeasons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdd.resx">
+      <DependentUpon>FormAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\Nominant.datasource" />
+    <None Include="Properties\DataSources\Oskars.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\Oskars.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
